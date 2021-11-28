@@ -18,7 +18,7 @@ class _MyNavigationBarState extends State<MyNavigationBar> {
     BmiPage(),
     CaloriePage(),
     PedometrePage(),
-    TutorialPage(),
+    YtVideoPlayer(),
   ];
 
   void _onItemTapped(int index) {

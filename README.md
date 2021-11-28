@@ -18,3 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 download apk from - https://drive.google.com/file/d/10zTIarXKUPKUC3n0YjtoNOzM43sYhqda/view?usp=sharing
 
 ![screenshot1](https://github.com/tomkmangattu/myhealth/blob/master/assets/ss1.png?raw=true) ![screenshot1](https://github.com/tomkmangattu/myhealth/blob/master/assets/ss2.png?raw=true)
+
+<p align="center">
+  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss1.png?raw=true" width="350" title="screenshot">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>

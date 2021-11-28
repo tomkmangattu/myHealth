@@ -17,7 +17,7 @@ class _MyNavigationBarState extends State<MyNavigationBar> {
   static const List<Widget> _widgetOptions = <Widget>[
     BmiPage(),
     CaloriePage(),
-    PedometerPage(),
+    PedometrePage(),
     TutorialPage(),
   ];
 

@@ -17,6 +17,8 @@ samples, guidance on mobile development, and a full API reference.
 
 download apk from - https://drive.google.com/file/d/10zTIarXKUPKUC3n0YjtoNOzM43sYhqda/view?usp=sharing
 
+## BMI Calculator, Calorie CalCulator
+
 <p align="center">
   <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss1.png" width="200" title="screenshot1">
   <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss2.png" width="200" alt="screenshot2">
@@ -26,9 +28,9 @@ download apk from - https://drive.google.com/file/d/10zTIarXKUPKUC3n0YjtoNOzM43s
 <p align="center">
   <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss4.png" width="200" title="screenshot4">
   <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss5.png" width="200" alt="screenshot5">
-  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss6.png" width="200" alt="screenshot6">
 </p>
 
 <p align="center">
+  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss6.png" width="200" alt="screenshot6">
   <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss7.png" width="200" title="screenshot4">
 </p>

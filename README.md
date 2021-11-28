@@ -18,13 +18,13 @@ samples, guidance on mobile development, and a full API reference.
 download apk from - https://drive.google.com/file/d/10zTIarXKUPKUC3n0YjtoNOzM43sYhqda/view?usp=sharing
 
 <p align="center">
-  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss1.png?raw=true" width="350" title="screenshot1">
-  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss2.png" width="350" alt="screenshot2">
-  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss3.png" width="350" alt="screenshot3">
+  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss1.png" width="200" title="screenshot1">
+  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss2.png" width="200" alt="screenshot2">
+  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss3.png" width="200" alt="screenshot3">
 </p>
 
 <p align="center">
-  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss4.png" width="350" title="screenshot4">
-  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss5.png" width="350" alt="screenshot5">
+  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss4.png" width="200" title="screenshot4">
+  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss5.png" width="200" alt="screenshot5">
 </p>
 

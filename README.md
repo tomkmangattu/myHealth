@@ -17,4 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 download apk from - https://drive.google.com/file/d/10zTIarXKUPKUC3n0YjtoNOzM43sYhqda/view?usp=sharing
 
-[screenshot1](https://github.com/tomkmangattu/myhealth/blob/master/assets/ss1.png)
+![screenshot1](https://github.com/tomkmangattu/myhealth/blob/master/assets/ss1.png?raw=true)

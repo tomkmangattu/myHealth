@@ -67,7 +67,7 @@ class _PedometrePageState extends State<PedometrePage> {
 
       _stepCountStream = Pedometer.stepCountStream;
       _stepCountStream.listen(onStepCount).onError(onStepCountError);
-    }
+    } else {}
     if (!mounted) return;
   }
 

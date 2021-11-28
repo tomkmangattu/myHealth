@@ -1,0 +1,978 @@
+[
+    {
+        "category" : "Cereals and Millets",
+        "items" : [
+            
+                {
+                    "Item": "Rice (Brown)",
+                    "Quantity": "100",
+                    "Calorie": "353.7"
+                },
+                {
+                    "Item": "Rice Parboiled",
+                    "Quantity": "100",
+                    "Calorie": "351.5"
+                },
+                {
+                    "Item": "Rice Raw milled",
+                    "Quantity": "100",
+                    "Calorie": "356.3"
+                },
+                {
+                    "Item": "Wheat whole",
+                    "Quantity": "100",
+                    "Calorie": "321.9"
+                },
+                {
+                    "Item": "Wheat flour",
+                    "Quantity": "100",
+                    "Calorie": "320.2"
+                },
+                {
+                    "Item": "Bulgar wheat",
+                    "Quantity": "100",
+                    "Calorie": "341.7"
+                },
+                {
+                    "Item": "Refined flour",
+                    "Quantity": "100",
+                    "Calorie": "351.8"
+                },
+                {
+                    "Item": "Ragi",
+                    "Quantity": "100",
+                    "Calorie": "320.7"
+                },
+                {
+                    "Item": "Rice flakes",
+                    "Quantity": "100",
+                    "Calorie": "353.7"
+                },
+                {
+                    "Item": "Wheat semolina",
+                    "Quantity": "100",
+                    "Calorie": "333.6"
+                },
+                {
+                    "Item": "Wheat vermicelli",
+                    "Quantity": "100",
+                    "Calorie": "332.6"
+                },
+                {
+                    "Item": "Barley",
+                    "Quantity": "100",
+                    "Calorie": "315.7"
+                },
+                {
+                    "Item": "Bajra",
+                    "Quantity": "100",
+                    "Calorie": "347.9"
+                },
+                {
+                    "Item": "Jowar",
+                    "Quantity": "100",
+                    "Calorie": "334.1"
+                },
+                {
+                    "Item": "Quinoa",
+                    "Quantity": "100",
+                    "Calorie": "328.3"
+                },
+                {
+                    "Item": "Amaranth seed, Black",
+                    "Quantity": "100",
+                    "Calorie": "356.1"
+                }
+            
+        ]
+    },
+    {
+        "category" : "Grain legumes",
+        "items" : [
+            
+                {
+                    "Item": "Bengal gram, dal",
+                    "Quantity": "100",
+                    "Calorie": "329.1"
+                },
+                {
+                    "Item": "Bengal gram, whole",
+                    "Quantity": "100",
+                    "Calorie": "287"
+                },
+                {
+                    "Item": "Black gram whole",
+                    "Quantity": "100",
+                    "Calorie": "291.3"
+                },
+                {
+                    "Item": "Cow pea, brown",
+                    "Quantity": "100",
+                    "Calorie": "320.2"
+                },
+                {
+                    "Item": "Cow pea, white",
+                    "Quantity": "100",
+                    "Calorie": "320.2"
+                },
+                {
+                    "Item": "Green gram dal",
+                    "Quantity": "100",
+                    "Calorie": "325.7"
+                },
+                {
+                    "Item": "Green gram, whole",
+                    "Quantity": "100",
+                    "Calorie": "293.7"
+                },
+                {
+                    "Item": "Horse gram, whole",
+                    "Quantity": "100",
+                    "Calorie": "329.5"
+                },
+                {
+                    "Item": "Lentil dal",
+                    "Quantity": "100",
+                    "Calorie": "322.4"
+                },
+                {
+                    "Item": "Peas, dry",
+                    "Quantity": "100",
+                    "Calorie": "303.2"
+                },
+                {
+                    "Item": "Rajma, red",
+                    "Quantity": "100",
+                    "Calorie": "299.2"
+                },
+                {
+                    "Item": "Red gram, dal",
+                    "Quantity": "100",
+                    "Calorie": "330.7"
+                },
+                {
+                    "Item": "Red gram, whole",
+                    "Quantity": "100",
+                    "Calorie": "273.9"
+                },
+                {
+                    "Item": "Soya bean, brown",
+                    "Quantity": "100",
+                    "Calorie": "381.4"
+                }
+            ]
+        
+    },
+    {
+        "category" : "Green leafy vegetables",
+        "items" : [
+            {
+                "Item": "Amaranth leaves",
+                "Quantity": "100",
+                "Calorie": "30.5"
+            },
+            {
+                "Item": "Beet greens",
+                "Quantity": "100",
+                "Calorie": "34.6"
+            },
+            {
+                "Item": "Brussels sprouts",
+                "Quantity": "100",
+                "Calorie": "44.2"
+            },
+            {
+                "Item": "Cabbage Chinese",
+                "Quantity": "100",
+                "Calorie": "17.9"
+            },
+            {
+                "Item": "Cabbage, green",
+                "Quantity": "100",
+                "Calorie": "21.5"
+            },
+            {
+                "Item": "Cauliflower leaves",
+                "Quantity": "100",
+                "Calorie": "35.4"
+            },
+            {
+                "Item": "Colocasia leaves, green",
+                "Quantity": "100",
+                "Calorie": "43.4"
+            },
+            {
+                "Item": "Drumstick leaves",
+                "Quantity": "100",
+                "Calorie": "67.3"
+            },
+            {
+                "Item": "Fenugreek leaves",
+                "Quantity": "100",
+                "Calorie": "34.4"
+            },
+            {
+                "Item": "Lettuce",
+                "Quantity": "100",
+                "Calorie": "21.7"
+            },
+            {
+                "Item": "Mustard leaves",
+                "Quantity": "100",
+                "Calorie": "30.3"
+            },
+            {
+                "Item": "Parsley",
+                "Quantity": "100",
+                "Calorie": "72.8"
+            },
+            {
+                "Item": "Radish leaves",
+                "Quantity": "100",
+                "Calorie": "26.05"
+            },
+            {
+                "Item": "Spinach",
+                "Quantity": "100",
+                "Calorie": "24.3"
+            }
+        ]
+    },
+    {
+        "category" : "Other Vegetables",
+        "items" :[
+            {
+                "Item": "Ash gourd",
+                "Quantity": "100",
+                "Calorie": "17.4"
+            },
+            {
+                "Item": "Bamboo shoot, tender",
+                "Quantity": "100",
+                "Calorie": "16.2"
+            },
+            {
+                "Item": "Bitter gourd",
+                "Quantity": "100",
+                "Calorie": "20.7"
+            },
+            {
+                "Item": "Bottle gourd",
+                "Quantity": "100",
+                "Calorie": "10.9"
+            },
+            {
+                "Item": "Brinjal",
+                "Quantity": "100",
+                "Calorie": "25.3"
+            },
+            {
+                "Item": "Broad beans",
+                "Quantity": "100",
+                "Calorie": "29.3"
+            },
+            {
+                "Item": "Capsicum",
+                "Quantity": "100",
+                "Calorie": "16.2"
+            },
+            {
+                "Item": "Cauliflower",
+                "Quantity": "100",
+                "Calorie": "22.9"
+            },
+            {
+                "Item": "Celery stalk",
+                "Quantity": "100",
+                "Calorie": "16.4"
+            },
+            {
+                "Item": "Cho-Cho-Marrow",
+                "Quantity": "100",
+                "Calorie": "18.8"
+            },
+            {
+                "Item": "Cluster beans",
+                "Quantity": "100",
+                "Calorie": "40.1"
+            },
+            {
+                "Item": "Cucumber",
+                "Quantity": "100",
+                "Calorie": "19.5"
+            },
+            {
+                "Item": "French beans",
+                "Quantity": "100",
+                "Calorie": "24.3"
+            },
+            {
+                "Item": "Knol-Khol",
+                "Quantity": "100",
+                "Calorie": "16"
+            },
+            {
+                "Item": "Kovai",
+                "Quantity": "100",
+                "Calorie": "19.1"
+            },
+            {
+                "Item": "Ladies finger",
+                "Quantity": "100",
+                "Calorie": "27.4"
+            },
+            {
+                "Item": "Parwar",
+                "Quantity": "100",
+                "Calorie": "24.1"
+            },
+            {
+                "Item": "Peas,fresh",
+                "Quantity": "100",
+                "Calorie": "81.2"
+            },
+            {
+                "Item": "Plantain stem",
+                "Quantity": "100",
+                "Calorie": "39.4"
+            },
+            {
+                "Item": "Pumpkin",
+                "Quantity": "100",
+                "Calorie": "23.1"
+            },
+            {
+                "Item": "Ridge gourd",
+                "Quantity": "100",
+                "Calorie": "13.1"
+            },
+            {
+                "Item": "Snake gourd",
+                "Quantity": "100",
+                "Calorie": "12.4"
+            },
+            {
+                "Item": "Tomato",
+                "Quantity": "100",
+                "Calorie": "20.7"
+            },
+            {
+                "Item": "Zucchini, green",
+                "Quantity": "100",
+                "Calorie": "20"
+            }
+        ]
+    },
+    {
+        "category" : "Roots and Tubers",
+        "items" :[
+            {
+                "Item": "Beetroot",
+                "Quantity": "100",
+                "Calorie": "35.6"
+            },
+            {
+                "Item": "Carrot",
+                "Quantity": "100",
+                "Calorie": "33.2"
+            },
+            {
+                "Item": "Potato brown",
+                "Quantity": "100",
+                "Calorie": "69.7"
+            },
+            {
+                "Item": "\"Radish,white\"",
+                "Quantity": "100",
+                "Calorie": "32.2"
+            },
+            {
+                "Item": "\"Sweet potato,brown\"",
+                "Quantity": "100",
+                "Calorie": "108.9"
+            },
+            {
+                "Item": "Tapioca",
+                "Quantity": "100",
+                "Calorie": "79.8"
+            },
+            {
+                "Item": "Yam",
+                "Quantity": "100",
+                "Calorie": "84.3"
+            }
+        ]
+    },
+    {
+        "category" : "Fruits",
+        "items" :[
+            {
+                "Item": "Apple",
+                "Quantity": "100",
+                "Calorie": "62.3"
+            },
+            {
+                "Item": "Apricot, dried",
+                "Quantity": "100",
+                "Calorie": "31.5"
+            },
+            {
+                "Item": "Avocado",
+                "Quantity": "100",
+                "Calorie": "144.3"
+            },
+            {
+                "Item": "Banana",
+                "Quantity": "100",
+                "Calorie": "110.6"
+            },
+            {
+                "Item": "Blackberry fruit",
+                "Quantity": "100",
+                "Calorie": "54.2"
+            },
+            {
+                "Item": "Cherries red",
+                "Quantity": "100",
+                "Calorie": "59.7"
+            },
+            {
+                "Item": "Blackcurrants",
+                "Quantity": "100",
+                "Calorie": "54.2"
+            },
+            {
+                "Item": "Custard apple",
+                "Quantity": "100",
+                "Calorie": "98.9"
+            },
+            {
+                "Item": "Dates, dry",
+                "Quantity": "100",
+                "Calorie": "320.2"
+            },
+            {
+                "Item": "Fig",
+                "Quantity": "100",
+                "Calorie": "81.5"
+            },
+            {
+                "Item": "Grapes",
+                "Quantity": "100",
+                "Calorie": "60.7"
+            },
+            {
+                "Item": "Guava",
+                "Quantity": "100",
+                "Calorie": "32.2"
+            },
+            {
+                "Item": "Jack fruit",
+                "Quantity": "100",
+                "Calorie": "72.1"
+            },
+            {
+                "Item": "Sweet lime",
+                "Quantity": "100",
+                "Calorie": "27.2"
+            },
+            {
+                "Item": "Litchi",
+                "Quantity": "100",
+                "Calorie": "53.7"
+            },
+            {
+                "Item": "Mango",
+                "Quantity": "100",
+                "Calorie": "41.8"
+            },
+            {
+                "Item": "Musk melon",
+                "Quantity": "100",
+                "Calorie": "23.1"
+            },
+            {
+                "Item": "Orange",
+                "Quantity": "100",
+                "Calorie": "37.2"
+            },
+            {
+                "Item": "Papaya",
+                "Quantity": "100",
+                "Calorie": "23.9"
+            },
+            {
+                "Item": "Peach",
+                "Quantity": "100",
+                "Calorie": "40.1"
+            },
+            {
+                "Item": "Pear",
+                "Quantity": "100",
+                "Calorie": "37.5"
+            },
+            {
+                "Item": "Pineapple",
+                "Quantity": "100",
+                "Calorie": "43"
+            },
+            {
+                "Item": "Plum",
+                "Quantity": "100",
+                "Calorie": "56.8"
+            },
+            {
+                "Item": "Pomegranate",
+                "Quantity": "100",
+                "Calorie": "54.7"
+            },
+            {
+                "Item": "Raisins, black",
+                "Quantity": "100",
+                "Calorie": "305.6"
+            },
+            {
+                "Item": "Sapota",
+                "Quantity": "100",
+                "Calorie": "73.3"
+            },
+            {
+                "Item": "Strawberry",
+                "Quantity": "100",
+                "Calorie": "24.6"
+            },
+            {
+                "Item": "Watermelon",
+                "Quantity": "100",
+                "Calorie": "20.3"
+            },
+            {
+                "Item": "Wood apple",
+                "Quantity": "100",
+                "Calorie": "78.1"
+            }
+        ]
+    },
+    {
+        "category" : "Condiments and Spices",
+        "items" :[
+            {
+                "Item": "Green chillies",
+                "Quantity": "100",
+                "Calorie": "45.6"
+            },
+            {
+                "Item": "Coriander seeds",
+                "Quantity": "100",
+                "Calorie": "268.8"
+            },
+            {
+                "Item": "Curry leaves",
+                "Quantity": "100",
+                "Calorie": "63.5"
+            },
+            {
+                "Item": "Garlic",
+                "Quantity": "100",
+                "Calorie": "123.8"
+            },
+            {
+                "Item": "Ginger, fresh",
+                "Quantity": "100",
+                "Calorie": "54.9"
+            },
+            {
+                "Item": "Mint leaves",
+                "Quantity": "100",
+                "Calorie": "37"
+            },
+            {
+                "Item": "Onion",
+                "Quantity": "100",
+                "Calorie": "48"
+            },
+            {
+                "Item": "Asafoetida",
+                "Quantity": "100",
+                "Calorie": "331.5"
+            },
+            {
+                "Item": "Cardamom, green",
+                "Quantity": "100",
+                "Calorie": "255"
+            },
+            {
+                "Item": "Red chillies",
+                "Quantity": "100",
+                "Calorie": "236.6"
+            },
+            {
+                "Item": "Cloves",
+                "Quantity": "100",
+                "Calorie": "186.6"
+            },
+            {
+                "Item": "Cumin seeds",
+                "Quantity": "100",
+                "Calorie": "304.4"
+            },
+            {
+                "Item": "Black cumin (Kalonji)",
+                "Quantity": "100",
+                "Calorie": "345"
+            },
+            {
+                "Item": "Fenugreek seeds",
+                "Quantity": "100",
+                "Calorie": "234.9"
+            },
+            {
+                "Item": "Nutmeg",
+                "Quantity": "100",
+                "Calorie": "463.6"
+            },
+            {
+                "Item": "Basil seeds",
+                "Quantity": "100",
+                "Calorie": "22"
+            },
+            {
+                "Item": "Anise seeds",
+                "Quantity": "100",
+                "Calorie": "153.3"
+            },
+            {
+                "Item": "Pepper, black",
+                "Quantity": "100",
+                "Calorie": "217.4"
+            },
+            {
+                "Item": "Poppy seeds",
+                "Quantity": "100",
+                "Calorie": "422.5"
+            },
+            {
+                "Item": "Turmeric powder",
+                "Quantity": "100",
+                "Calorie": "280.5"
+            }
+        ]
+    },
+    {
+        "category" : "Nuts and Oil seeds",
+        "items" :[
+            {
+                "Item": "Almond",
+                "Quantity": "100",
+                "Calorie": "609.2"
+            },
+            {
+                "Item": "Arecanut dried",
+                "Quantity": "100",
+                "Calorie": "350.6"
+            },
+            {
+                "Item": "Cashew nut",
+                "Quantity": "100",
+                "Calorie": "582.6"
+            },
+            {
+                "Item": "Coconut dry",
+                "Quantity": "100",
+                "Calorie": "624"
+            },
+            {
+                "Item": "Coconut fresh",
+                "Quantity": "100",
+                "Calorie": "408.9"
+            },
+            {
+                "Item": "Gingelly seeds",
+                "Quantity": "100",
+                "Calorie": "507.6"
+            },
+            {
+                "Item": "Ground nut",
+                "Quantity": "100",
+                "Calorie": "520"
+            },
+            {
+                "Item": "Linseeds",
+                "Quantity": "100",
+                "Calorie": "443.8"
+            },
+            {
+                "Item": "Pine seed",
+                "Quantity": "100",
+                "Calorie": "594.1"
+            },
+            {
+                "Item": "Pistachio nuts",
+                "Quantity": "100",
+                "Calorie": "539.4"
+            },
+            {
+                "Item": "Sunflower seeds",
+                "Quantity": "100",
+                "Calorie": "586.2"
+            },
+            {
+                "Item": "Walnut",
+                "Quantity": "100",
+                "Calorie": "671"
+            },
+            {
+                "Item": "Flax seeds",
+                "Quantity": "100",
+                "Calorie": "534"
+            },
+            {
+                "Item": "Chia seeds",
+                "Quantity": "100",
+                "Calorie": "486"
+            }
+        ]
+    },
+    {
+        "category" : "Sugars",
+        "items" :[
+            {
+                "Item": "Jaggery cane",
+                "Quantity": "100",
+                "Calorie": "353.7"
+            },
+            {
+                "Item": "Sugarcane, juice",
+                "Quantity": "100",
+                "Calorie": "57.8"
+            }
+        ]
+    },
+    {
+        "category" : "Milk and Milk Products",
+        "items" :[
+            {
+                "Item": "Milk, whole, buffalo",
+                "Quantity": "100",
+                "Calorie": "107.3"
+            },
+            {
+                "Item": "Milk, whole, cow",
+                "Quantity": "100",
+                "Calorie": "72.8"
+            },
+            {
+                "Item": "Paneer",
+                "Quantity": "100",
+                "Calorie": "257.8"
+            },
+            {
+                "Item": "Khoa",
+                "Quantity": "100",
+                "Calorie": "315.9"
+            },
+            {
+                "Item": "Soy milk",
+                "Quantity": "100",
+                "Calorie": "54"
+            },
+            {
+                "Item": "Tofu",
+                "Quantity": "100",
+                "Calorie": "76"
+            }
+        ]
+
+    },
+    {
+        "category" : "Egg, Poultry and Animal Meat ",
+        "items" :[
+            {
+                "Item": "Egg, whole, raw",
+                "Quantity": "100",
+                "Calorie": "134.7"
+            },
+            {
+                "Item": "Egg white, raw",
+                "Quantity": "100",
+                "Calorie": "44.6"
+            },
+            {
+                "Item": "Egg, yolk, raw",
+                "Quantity": "100",
+                "Calorie": "296.8"
+            },
+            {
+                "Item": "Chicken, leg, skinless",
+                "Quantity": "100",
+                "Calorie": "383.6"
+            },
+            {
+                "Item": "Chicken, thigh, skinless",
+                "Quantity": "100",
+                "Calorie": "199.8"
+            },
+            {
+                "Item": "Chicken, breast, skinless",
+                "Quantity": "100",
+                "Calorie": "168.2"
+            },
+            {
+                "Item": "Chicken, liver",
+                "Quantity": "100",
+                "Calorie": "123.8"
+            },
+            {
+                "Item": "Goat",
+                "Quantity": "100",
+                "Calorie": "188"
+            },
+            {
+                "Item": "Sheep, shoulder",
+                "Quantity": "100",
+                "Calorie": "200.7"
+            },
+            {
+                "Item": "Sheep, chops",
+                "Quantity": "100",
+                "Calorie": "118.5"
+            },
+            {
+                "Item": "Beef, chops",
+                "Quantity": "100",
+                "Calorie": "139.8"
+            },
+            {
+                "Item": "Pork, shoulder",
+                "Quantity": "100",
+                "Calorie": "237.3"
+            },
+            {
+                "Item": "Pork, chops",
+                "Quantity": "100",
+                "Calorie": "178.7"
+            }
+        ]
+    },
+    {
+        "category" : "Fish and seafood",
+        "items" :[
+            {
+                "Item": "Cat fish",
+                "Quantity": "100",
+                "Calorie": "108.9"
+            },
+            {
+                "Item": "Mackerel",
+                "Quantity": "100",
+                "Calorie": "101"
+            },
+            {
+                "Item": "Matha",
+                "Quantity": "100",
+                "Calorie": "92.9"
+            },
+            {
+                "Item": "Pomfret",
+                "Quantity": "100",
+                "Calorie": "123"
+            },
+            {
+                "Item": "Salmon",
+                "Quantity": "100",
+                "Calorie": "172.3"
+            },
+            {
+                "Item": "Sardine",
+                "Quantity": "100",
+                "Calorie": "152.2"
+            },
+            {
+                "Item": "Shark",
+                "Quantity": "100",
+                "Calorie": "95.1"
+            },
+            {
+                "Item": "Silver fish",
+                "Quantity": "100",
+                "Calorie": "132.6"
+            },
+            {
+                "Item": "Catla",
+                "Quantity": "100",
+                "Calorie": "94.1"
+            },
+            {
+                "Item": "Tuna",
+                "Quantity": "100",
+                "Calorie": "112.3"
+            },
+            {
+                "Item": "Crab",
+                "Quantity": "100",
+                "Calorie": "81.9"
+            },
+            {
+                "Item": "Lobster",
+                "Quantity": "100",
+                "Calorie": "89.6"
+            },
+            {
+                "Item": "Oyster",
+                "Quantity": "100",
+                "Calorie": "60.2"
+            },
+            {
+                "Item": "Tiger prawns",
+                "Quantity": "100",
+                "Calorie": "65.2"
+            },
+            {
+                "Item": "Clam",
+                "Quantity": "100",
+                "Calorie": "58"
+            },
+            {
+                "Item": "Squid",
+                "Quantity": "100",
+                "Calorie": "80"
+            }
+        ]
+    },
+    {
+        "category" : "Fats and Oils",
+        "items" :[
+            {
+                "Item": "Ghee",
+                "Quantity": "100",
+                "Calorie": "920"
+            },
+            {
+                "Item": "Butter",
+                "Quantity": "100",
+                "Calorie": "717"
+            },
+            {
+                "Item": "Oil",
+                "Quantity": "100",
+                "Calorie": "900"
+            },
+            {
+                "Item": "Cheese",
+                "Quantity": "100",
+                "Calorie": "264.5"
+            }
+        ]
+    },
+    {
+        "category" : "Miscellaneous foods",
+        "items" :[
+            {
+                "Item": "Coconut water",
+                "Quantity": "100",
+                "Calorie": "15.2"
+            }
+        ]
+    }
+    
+]

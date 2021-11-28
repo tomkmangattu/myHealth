@@ -32,9 +32,15 @@ download apk from - https://drive.google.com/file/d/10zTIarXKUPKUC3n0YjtoNOzM43s
   <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss5.png" width="200" alt="screenshot5">
 </p>
 
-## Video tutorials
+## Pedometer
 
 <p align="center">
   <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss6.png" width="200" alt="screenshot6">
+  <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss7.png" width="200" title="screenshot4">
+</p>
+
+## Video tutorials
+
+<p align="center">
   <img src="https://github.com/tomkmangattu/myhealth/blob/master/assets/ss7.png" width="200" title="screenshot4">
 </p>
